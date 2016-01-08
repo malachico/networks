@@ -3,5 +3,5 @@ with open("actors") as f:
 
 print "["
 for line in content:
-	print "'"+line.split("\t")[2]+"',"
+	print "'"+line.split("\t")[1]+"',"
 print "]"

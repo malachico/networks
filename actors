@@ -1,99 +1,100 @@
-	2.	Marlon Brando	Actor, The Godfather	3 April 1924	14 Nov 2012
-	3.	Robert De Niro	Actor, Goodfellas	17 August 1943	14 Nov 2012
-	4.	Al Pacino	Actor, The Godfather	25 April 1940	14 Nov 2012
-	5.	Daniel Day-Lewis	Actor, There Will Be Blood	29 April 1957	14 Nov 2012
-	6.	Dustin Hoffman	Actor, Kramer vs. Kramer	8 August 1937	14 Nov 2012
-	7.	Tom Hanks	Actor, The Da Vinci Code	9 July 1956	14 Nov 2012
-	8.	Anthony Hopkins	Actor, Hannibal	31 December 1937	14 Nov 2012
-	9.	Paul Newman	Actor, Butch Cassidy and the Sundance Kid	26 January 1925	14 Nov 2012
-	10.	Denzel Washington	Actor, Training Day	28 December 1954	14 Nov 2012
-	11.	Jeff Bridges	Actor, The Big Lebowski	4 December 1949	15 Nov 2012
-	12.	James Stewart	Actor, It's a Wonderful Life	20 May 1908	15 Nov 2012
-	13.	Laurence Olivier	Actor, Rebecca	22 May 1907	15 Nov 2012
-	14.	Michael Caine	Actor, The Dark Knight	14 March 1933	15 Nov 2012
-	15.	Morgan Freeman	Actor, The Shawshank Redemption	1 June 1937	14 Nov 2012
-	16.	Clint Eastwood	Actor, Million Dollar Baby	31 May 1930	15 Nov 2012
-	17.	Sean Penn	Actor, Mystic River	17 August 1960	14 Nov 2012
-	18.	Robert Duvall	Actor, The Godfather: Part II	5 January 1931	14 Nov 2012
-	19.	Russell Crowe	Actor, Gladiator	7 April 1964	24 Nov 2012
-	20.	Philip Seymour Hoffman	Actor, Capote	23 July 1967	14 Nov 2012
-	21.	Robin Williams	Actor, Good Will Hunting	21 July 1951	15 Nov 2012
-	22.	Johnny Depp	Actor, Edward Scissorhands	9 June 1963	14 Nov 2012
-	23.	Leonardo DiCaprio	Actor, Inception	11 November 1974	14 Nov 2012
-	24.	Ben Kingsley	Actor, Schindler's List	31 December 1943	15 Nov 2012
-	25.	Tommy Lee Jones	Actor, No Country for Old Men	15 September 1946	14 Nov 2012
-	26.	Sidney Poitier	Actor, In the Heat of the Night	20 February 1927	15 Jun 2013
-	27.	Gene Hackman	Actor, Unforgiven	30 January 1930	14 Nov 2012
-	28.	Peter O'Toole	Actor, Lawrence of Arabia	2 August 1932	15 Nov 2012
-	29.	Alec Guinness	Actor, Star Wars	2 April 1914	15 Nov 2012
-	30.	Kevin Spacey	Actor, American Beauty	26 July 1959	14 Nov 2012
-	31.	Spencer Tracy	Actor, It's a Mad, Mad, Mad, Mad World	5 April 1900	15 Nov 2012
-	32.	Gregory Peck	Actor, To Kill a Mockingbird	5 April 1916	15 Nov 2012
-	33.	Humphrey Bogart	Actor, Casablanca	25 December 1899	15 Nov 2012
-	34.	Clark Gable	Actor, It Happened One Night	1 February 1901	15 Nov 2012
-	35.	Jack Lemmon	Actor, The Apartment	8 February 1925	15 Nov 2012
-	36.	George C. Scott	Actor, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	18 October 1927	15 Nov 2012
-	37.	Gary Cooper	Actor, High Noon	7 May 1901	12 Apr 2013
-	38.	Jason Robards	Actor, C'era una volta il West	26 July 1922	15 Nov 2012
-	39.	James Dean	Actor, Rebel Without a Cause	8 February 1931	15 Nov 2012
-	40.	Peter Sellers	Actor, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	8 September 1925	30 Oct 2013
-	41.	Charles Chaplin	Writer, Modern Times	16 April 1889	15 Nov 2012
-	42.	Peter Finch	Actor, Network	28 September 1916	15 Nov 2012
-	43.	James Cagney	Actor, White Heat	17 July 1899	12 Apr 2013
-	44.	Henry Fonda	Actor, 12 Angry Men	16 May 1905	15 Nov 2012
-	45.	Burt Lancaster	Actor, From Here to Eternity	2 November 1913	29 Jun 2013
-	46.	Kirk Douglas	Actor, Spartacus	9 December 1916	15 Nov 2012
-	47.	Cary Grant	Actor, North by Northwest	18 January 1904	12 Apr 2013
-	48.	Geoffrey Rush	Actor, Pirates of the Caribbean: The Curse of the Black Pearl	6 July 1951	15 Nov 2012
-	49.	Richard Burton	Actor, Who's Afraid of Virginia Woolf?	10 November 1925	08 Jul 2013
-	50.	Christopher Plummer	Actor, Up	13 December 1929	15 Nov 2012
-	51.	William Holden	Actor, The Bridge on the River Kwai	17 April 1918	30 Oct 2013
-	52.	John Wayne	Actor, The Searchers	26 May 1907	15 Nov 2012
-	53.	Alan Arkin	Actor, Argo	26 March 1934	15 Nov 2012
-	54.	Sean Connery	Actor, Dr. No	25 August 1930	15 Nov 2012
-	55.	Christopher Walken	Actor, Catch Me If You Can	31 March 1943	15 Nov 2012
-	56.	Joe Pesci	Actor, Goodfellas	9 February 1943	15 Nov 2012
-	57.	Heath Ledger	Actor, The Dark Knight	4 April 1979	15 Nov 2012
-	58.	Javier Bardem	Actor, No Country for Old Men	1 March 1969	15 Nov 2012
-	59.	Christoph Waltz	Actor, Django Unchained	4 October 1956	25 Feb 2013
-	60.	Ralph Fiennes	Actor, Harry Potter and the Deathly Hallows: Part 2	22 December 1962	15 Nov 2012
-	61.	Jamie Foxx	Actor, Django Unchained	13 December 1967	15 Nov 2012
-	62.	Joaquin Phoenix	Actor, Gladiator	28 October 1974	15 Nov 2012
-	63.	Colin Firth	Actor, The King's Speech	10 September 1960	15 Nov 2012
-	64.	Matthew McConaughey	Actor, Interstellar	4 November 1969	28 Nov 2014
-	65.	Hugh Jackman	Actor, The Prestige	12 October 1968	13 Dec 2014
-	66.	Benicio Del Toro	Actor, Snatch.	19 February 1967	21 Jul 2014
-	67.	Gary Oldman	Actor, The Dark Knight Rises	21 March 1958	20 Jun 2013
-	68.	Edward Norton	Actor, Fight Club	18 August 1969	15 Nov 2012
-	69.	Christian Bale	Actor, The Dark Knight	30 January 1974	15 Nov 2012
-	70.	John Malkovich	Actor, Dangerous Liaisons	9 December 1953	15 Nov 2012
-	71.	Ian McKellen	Actor, The Lord of the Rings: The Fellowship of the Ring	25 May 1939	14 Feb 2013
-	72.	F. Murray Abraham	Actor, The Grand Budapest Hotel	24 October 1939	25 Jun 2014
-	73.	Jon Voight	Actor, Mission: Impossible	29 December 1938	15 Nov 2012
-	74.	Liam Neeson	Actor, Schindler's List	7 June 1952	15 Nov 2012
-	75.	Michael Douglas	Actor, The Game	25 September 1944	15 Nov 2012
-	76.	Harrison Ford	Actor, Star Wars	13 July 1942	15 Nov 2012
-	77.	Forest Whitaker	Actor, Platoon	15 July 1961	20 Sep 2013
-	78.	Kevin Kline	Actor, A Fish Called Wanda	24 October 1947	15 Nov 2012
-	79.	Jeremy Irons	Actor, The Lion King	19 September 1948	15 Nov 2012
-	80.	Brad Pitt	Actor, Inglourious Basterds	18 December 1963	15 Nov 2012
-	81.	Robert Downey Jr.	Actor, The Avengers	4 April 1965	21 Jul 2014
-	82.	George Clooney	Actor, Gravity	6 May 1961	27 Nov 2012
-	83.	Matt Damon	Actor, The Bourne Identity	8 October 1970	15 Nov 2012
-	84.	Samuel L. Jackson	Actor, Pulp Fiction	21 December 1948	14 Nov 2012
-	85.	Mel Gibson	Actor, Braveheart	3 January 1956	7 months ago
-	86.	Don Cheadle	Actor, Crash	29 November 1964	26 Feb 2013
-	87.	Ed Harris	Actor, A Beautiful Mind	28 November 1950	15 Nov 2012
-	88.	Tim Robbins	Actor, The Shawshank Redemption	16 October 1958	15 Nov 2012
-	89.	Robert Redford	Actor, Butch Cassidy and the Sundance Kid	18 August 1936	15 Nov 2012
-	90.	Orson Welles	Actor, Citizen Kane	6 May 1915	08 Jul 2013
-	91.	Steve McQueen	Actor, The Great Escape	24 March 1930	15 Nov 2012
-	92.	Charlton Heston	Actor, Ben-Hur	4 October 1923	24 Jul 2013
-	93.	Gene Kelly	Actor, Singin' in the Rain	23 August 1912	30 Oct 2013
-	94.	Robert Mitchum	Actor, The Night of the Hunter	6 August 1917	20 May 2014
-	95.	Bill Murray	Actor, Groundhog Day	21 September 1950	17 Nov 2012
-	96.	Jim Carrey	Actor, Eternal Sunshine of the Spotless Mind	17 January 1962	10 months ago
-	97.	Tom Cruise	Actor, Top Gun	3 July 1962	15 Nov 2012
-	98.	Will Smith	Actor, Men in Black	25 September 1968	31 Oct 2013
-	99.	Martin Sheen	Actor, Apocalypse Now	3 August 1940	30 Oct 2013
-	100.	Kevin Costner
+	Leonardo DiCaprio	Actor, Inception	11 November 1974	14 Nov 2012
+	Harrison Ford	Actor, Star Wars	13 July 1942	15 Nov 2012
+	Johnny Depp	Actor, Edward Scissorhands	9 June 1963	14 Nov 2012
+	Tom Cruise	Actor, Top Gun	3 July 1962	15 Nov 2012
+	Brad Pitt	Actor, Inglourious Basterds	18 December 1963	15 Nov 2012
+	Christian Bale	Actor, The Dark Knight	30 January 1974	15 Nov 2012
+	Samuel L. Jackson	Actor, Pulp Fiction	21 December 1948	14 Nov 2012
+	Matt Damon	Actor, The Bourne Identity	8 October 1970	15 Nov 2012
+	Tom Hanks	Actor, The Da Vinci Code	9 July 1956	14 Nov 2012
+	Will Smith	Actor, Men in Black	25 September 1968	31 Oct 2013
+	Robert De Niro	Actor, Goodfellas	17 August 1943	14 Nov 2012
+	Benicio Del Toro	Actor, Snatch.	19 February 1967	21 Jul 2014
+	Christoph Waltz	Actor, Django Unchained	4 October 1956	25 Feb 2013
+	Denzel Washington	Actor, Training Day	28 December 1954	14 Nov 2012
+	Ralph Fiennes	Actor, Harry Potter and the Deathly Hallows: Part 2	22 December 1962	15 Nov 2012
+	Liam Neeson	Actor, Schindler's List	7 June 1952	15 Nov 2012
+	Matthew McConaughey	Actor, Interstellar	4 November 1969	28 Nov 2014
+	Robert Downey Jr.	Actor, The Avengers	4 April 1965	21 Jul 2014
+	Hugh Jackman	Actor, The Prestige	12 October 1968	13 Dec 2014
+	Alec Guinness	Actor, Star Wars	2 April 1914	15 Nov 2012
+	Clint Eastwood	Actor, Million Dollar Baby	31 May 1930	15 Nov 2012
+	Jim Carrey	Actor, Eternal Sunshine of the Spotless Mind	17 January 1962	10 months ago
+	Mel Gibson	Actor, Braveheart	3 January 1956	7 months ago
+	Heath Ledger	Actor, The Dark Knight	4 April 1979	15 Nov 2012
+	Jack Nicholson	Actor, The Shining	22 April 1937	14 Nov 2012
+	Robert Redford	Actor, Butch Cassidy and the Sundance Kid	18 August 1936	15 Nov 2012
+	Russell Crowe	Actor, Gladiator	7 April 1964	24 Nov 2012
+	Al Pacino	Actor, The Godfather	25 April 1940	14 Nov 2012
+	Javier Bardem	Actor, No Country for Old Men	1 March 1969	15 Nov 2012
+	Robin Williams	Actor, Good Will Hunting	21 July 1951	15 Nov 2012
+	Anthony Hopkins	Actor, Hannibal	31 December 1937	14 Nov 2012
+	George Clooney	Actor, Gravity	6 May 1961	27 Nov 2012
+	Colin Firth	Actor, The King's Speech	10 September 1960	15 Nov 2012
+	Sean Connery	Actor, Dr. No	25 August 1930	15 Nov 2012
+	Marlon Brando	Actor, The Godfather	3 April 1924	14 Nov 2012
+	Daniel Day-Lewis	Actor, There Will Be Blood	29 April 1957	14 Nov 2012
+	Christopher Plummer	Actor, Up	13 December 1929	15 Nov 2012
+	Morgan Freeman	Actor, The Shawshank Redemption	1 June 1937	14 Nov 2012
+	Ian McKellen	Actor, The Lord of the Rings: The Fellowship of the Ring	25 May 1939	14 Feb 2013
+	Kevin Costner	Actor, Dances with Wolves	18 January 1955	5 months ago
+	Gary Oldman	Actor, The Dark Knight Rises	21 March 1958	20 Jun 2013
+	Joaquin Phoenix	Actor, Gladiator	28 October 1974	15 Nov 2012
+	Bill Murray	Actor, Groundhog Day	21 September 1950	17 Nov 2012
+	Edward Norton	Actor, Fight Club	18 August 1969	15 Nov 2012
+	Kevin Spacey	Actor, American Beauty	26 July 1959	14 Nov 2012
+	Ben Kingsley	Actor, Schindler's List	31 December 1943	15 Nov 2012
+	Jon Voight	Actor, Mission: Impossible	29 December 1938	15 Nov 2012
+	Joe Pesci	Actor, Goodfellas	9 February 1943	15 Nov 2012
+	James Stewart	Actor, Rear Window	20 May 1908	15 Nov 2012
+	Philip Seymour Hoffman	Actor, Capote	23 July 1967	14 Nov 2012
+	Michael Caine	Actor, The Dark Knight	14 March 1933	15 Nov 2012
+	Michael Douglas	Actor, The Game	25 September 1944	15 Nov 2012
+	Geoffrey Rush	Actor, Pirates of the Caribbean: The Curse of the Black Pearl	6 July 1951	15 Nov 2012
+	Sean Penn	Actor, Mystic River	17 August 1960	14 Nov 2012
+	Jeff Bridges	Actor, The Big Lebowski	4 December 1949	15 Nov 2012
+	Paul Newman	Actor, Butch Cassidy and the Sundance Kid	26 January 1925	14 Nov 2012
+	Christopher Walken	Actor, Catch Me If You Can	31 March 1943	15 Nov 2012
+	Cary Grant	Actor, North by Northwest	18 January 1904	12 Apr 2013
+	Dustin Hoffman	Actor, Kramer vs. Kramer	8 August 1937	14 Nov 2012
+	John Wayne	Actor, The Searchers	26 May 1907	15 Nov 2012
+	Jeremy Irons	Actor, The Lion King	19 September 1948	15 Nov 2012
+	Tommy Lee Jones	Actor, No Country for Old Men	15 September 1946	14 Nov 2012
+	Kirk Douglas	Actor, Spartacus	9 December 1916	15 Nov 2012
+	Robert Duvall	Actor, The Godfather: Part II	5 January 1931	14 Nov 2012
+	Tim Robbins	Actor, The Shawshank Redemption	16 October 1958	15 Nov 2012
+	Steve McQueen	Actor, The Great Escape	24 March 1930	15 Nov 2012
+	Jamie Foxx	Actor, Django Unchained	13 December 1967	15 Nov 2012
+	James Dean	Actor, Rebel Without a Cause	8 February 1931	15 Nov 2012
+	Forest Whitaker	Actor, Platoon	15 July 1961	20 Sep 2013
+	Ed Harris	Actor, A Beautiful Mind	28 November 1950	15 Nov 2012
+	Gene Hackman	Actor, Unforgiven	30 January 1930	14 Nov 2012
+	Kevin Kline	Actor, A Fish Called Wanda	24 October 1947	15 Nov 2012
+	Charles Chaplin	Writer, Modern Times	16 April 1889	15 Nov 2012
+	John Malkovich	Actor, Dangerous Liaisons	9 December 1953	15 Nov 2012
+	Gene Kelly	Actor, Singin' in the Rain	23 August 1912	30 Oct 2013
+	Martin Sheen	Actor, Apocalypse Now	3 August 1940	30 Oct 2013
+	Peter O'Toole	Actor, Lawrence of Arabia	2 August 1932	15 Nov 2012
+	Charlton Heston	Actor, Ben-Hur	4 October 1923	24 Jul 2013
+	Gregory Peck	Actor, To Kill a Mockingbird	5 April 1916	15 Nov 2012
+	Don Cheadle	Actor, Crash	29 November 1964	26 Feb 2013
+	Jack Lemmon	Actor, The Apartment	8 February 1925	15 Nov 2012
+	F. Murray Abraham	Actor, The Grand Budapest Hotel	24 October 1939	25 Jun 2014
+	Laurence Olivier	Actor, Rebecca	22 May 1907	15 Nov 2012
+	Orson Welles	Actor, Citizen Kane	6 May 1915	08 Jul 2013
+	Humphrey Bogart	Actor, Casablanca	25 December 1899	15 Nov 2012
+	Alan Arkin	Actor, Argo	26 March 1934	15 Nov 2012
+	Clark Gable	Actor, It Happened One Night	1 February 1901	15 Nov 2012
+	William Holden	Actor, The Bridge on the River Kwai	17 April 1918	30 Oct 2013
+	Robert Mitchum	Actor, The Night of the Hunter	6 August 1917	20 May 2014
+	Peter Sellers	Actor, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	8 September 1925	30 Oct 2013
+	Richard Burton	Actor, Who's Afraid of Virginia Woolf?	10 November 1925	08 Jul 2013
+	Sidney Poitier	Actor, In the Heat of the Night	20 February 1927	15 Jun 2013
+	Henry Fonda	Actor, C'era una volta il West	16 May 1905	15 Nov 2012
+	George C. Scott	Actor, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	18 October 1927	15 Nov 2012
+	Burt Lancaster	Actor, From Here to Eternity	2 November 1913	29 Jun 2013
+	Gary Cooper	Actor, High Noon	7 May 1901	12 Apr 2013
+	Jason Robards	Actor, C'era una volta il West	26 July 1922	15 Nov 2012
+	Spencer Tracy	Actor, Judgment at Nuremberg	5 April 1900	15 Nov 2012
+	James Cagney	Actor, White Heat	17 July 1899	12 Apr 2013
+	Peter Finch	Actor, Network	28 September 1916	15 Nov 2012
