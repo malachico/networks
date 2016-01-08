@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 ia = IMDb()
 top_100_actors = [
+	'Jack Nicholson',
 	'Marlon Brando',
 	'Robert De Niro',
 	'Al Pacino',
@@ -21,6 +22,7 @@ top_100_actors = [
 	'Clint Eastwood',
 	'Sean Penn',
 	'Robert Duvall',
+	'Robin Williams',
 	'Russell Crowe',
 	'Philip Seymour Hoffman',
 	'Robin Williams',
@@ -111,6 +113,7 @@ top_100_actors = [
 edges = []
 
 for actor in top_100_actors:
+	print actor
 	actor = ia.search_person(actor)[0]
 	full_person = ia.get_person(actor.getID(), info=["filmography"])
 	for movie in full_person["actor"]:
